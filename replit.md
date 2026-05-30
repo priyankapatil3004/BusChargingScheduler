@@ -1,6 +1,6 @@
-# [Project name]
+# Bus Charging Scheduler
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A Python + Streamlit app that schedules electric bus charging along a 540 km route, resolving charger contention with tunable weighted priority rules.
 
 ## Run & Operate
 
